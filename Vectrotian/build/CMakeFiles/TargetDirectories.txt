@@ -1,0 +1,3 @@
+/Users/youosef18/Vectrotian/build/CMakeFiles/SFML_App.dir
+/Users/youosef18/Vectrotian/build/CMakeFiles/edit_cache.dir
+/Users/youosef18/Vectrotian/build/CMakeFiles/rebuild_cache.dir
