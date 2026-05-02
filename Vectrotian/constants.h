@@ -29,7 +29,7 @@ namespace Config {
     const int PlayerPos1X = 2;
     const int PlayerPos1Y = 2;
     const std::vector<int> Lvl1Rec = {2, 1, 0}; //Scouts, Chasers, Coins
-    const std::vector<std::string> Lvl1Dialogue = {"Welcome to the Outer Rim!", "To pass the gate, I need some biological samples.", "Bring me: 2 Scouts and 1 Chaser."};
+    const std::vector<std::string> Lvl1Dialogue = {"Dear traveler, welcome to the greatst city of Seven Kindoms!","Well, to its graveyaard mostly...", "To pass you in, I need to get confident, that you'll be able to deal with all, this old down prepared for your visit", "I need some biological samples.", "Bring me: 2 Scouts and 1 Chaser."};
     //ЛВЛ2
     const int PlayerPos2X = 1;
     const int PlayerPos2Y = 5;

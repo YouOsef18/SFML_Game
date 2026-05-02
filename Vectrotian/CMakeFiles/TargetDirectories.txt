@@ -1,0 +1,3 @@
+/Users/youosef18/Desktop/Git/SFML_Game/Vectrotian/CMakeFiles/SFML_App.dir
+/Users/youosef18/Desktop/Git/SFML_Game/Vectrotian/CMakeFiles/edit_cache.dir
+/Users/youosef18/Desktop/Git/SFML_Game/Vectrotian/CMakeFiles/rebuild_cache.dir
